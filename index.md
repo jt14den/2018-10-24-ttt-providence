@@ -12,10 +12,9 @@ helper: ["TBD"]     # boxed, comma-separated list of helpers' names, like ["Marl
 contact: ["sheraaron@carpentries.org ","timdennis@ucla.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 etherpad:  http://pad.software-carpentry.org/2018-10-24-ttt-providence           # optional: URL for the workshop Etherpad if there is one
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
-location:
-  - venue: "Paff Auditorium"
-    address: "80 Washington Street, Providence, RI 02903"
-    latlng: "41.823351,-71.413869"
+venue: "Carrothers Library, URI Kingston Campus"
+address: "15 Lippitt Rd, Kingston, RI 02881"
+latlng: "41.4877084,-71.5288092"
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
